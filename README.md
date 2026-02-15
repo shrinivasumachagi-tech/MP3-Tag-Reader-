@@ -52,6 +52,7 @@ Big-endian conversion logic
 
 📂 Project Structure
 SHRINIVAS_MP3_TAG_READER/
+
 │── main.c        → Driver program
 
 │── id3v2.h       → ID3v2 structure definitions
