@@ -1,4 +1,4 @@
-🎵 MP3 Tag Reader (ID3v2.3) in C
+#🎵 MP3 Tag Reader (ID3v2.3) in C
 
 A simple and efficient C-based project to read, display, and edit MP3 metadata using the ID3v2.3 tag format.
 
