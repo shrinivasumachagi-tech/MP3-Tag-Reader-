@@ -110,6 +110,7 @@ Flags
 Data
 
 ▶️ How to Compile & Run
+
 Compile
 gcc main.c id3v2.c mp3view.c mp3edit.c -o mp3tag
 
