@@ -122,7 +122,9 @@ Run
 Make sure sample.mp3 is in the same directory.
 
 Sample Output 🖥
+
 SONG DETAILS
+
 Title   : Steganography
 
 Artist  : Shrinivas
