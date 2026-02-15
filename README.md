@@ -121,6 +121,15 @@ Run
 
 Make sure sample.mp3 is in the same directory.
 
+Sample Output 🖥
+SONG DETAILS
+Title   : Steganography
+Artist  : Shrinivas
+Album   : C Project
+Year    : 2026
+Genre   : Test
+Comment : MP3 ID3v2 tag testing
+
 Sample Output🖥
 ====== SONG DETAILS ======
 Title   : Steganography
