@@ -53,13 +53,21 @@ Big-endian conversion logic
 📂 Project Structure
 SHRINIVAS_MP3_TAG_READER/
 │── main.c        → Driver program
+
 │── id3v2.h       → ID3v2 structure definitions
+
 │── id3v2.c       → Core ID3v2 parsing logic
+
 │── mp3view.c     → View metadata implementation
+
 │── mp3edit.c     → Edit metadata implementation
+
 │── mp3tag.h      → Tag structure definitions
+
 │── common.h      → Common macros and utilities
+
 │── sample.mp3    → Test MP3 file
+
 │── a.out         → Compiled output file
 
 
